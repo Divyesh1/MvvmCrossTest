@@ -1,0 +1,16 @@
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCrossTest.iOS.exe
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCrossTest.iOS.pdb
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCross.dll
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCrossTest.Core.dll
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCrossTest.Core.pdb
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/bin/iPhoneSimulator/Debug/MvvmCross.xml
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/MvvmCrossTest.iOS.csprojResolveAssemblyReference.cache
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/MvvmCrossTest.iOS.csproj.CoreCompileInputs.cache
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/MvvmCrossTest.iOS.exe
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.iOS/obj/iPhoneSimulator/Debug/MvvmCrossTest.iOS.pdb

@@ -1,0 +1,9 @@
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/bin/Debug/netstandard2.0/MvvmCrossTest.Core.deps.json
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/bin/Debug/netstandard2.0/MvvmCrossTest.Core.dll
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/bin/Debug/netstandard2.0/MvvmCrossTest.Core.pdb
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.csprojResolveAssemblyReference.cache
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.csproj.CoreCompileInputs.cache
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.AssemblyInfoInputs.cache
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.AssemblyInfo.cs
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.dll
+/Users/ns-mac/Divyesh/Projects/MvvmCrossTest/MvvmCrossTest/MvvmCrossTest.Core/obj/Debug/netstandard2.0/MvvmCrossTest.Core.pdb
